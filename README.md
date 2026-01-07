@@ -63,6 +63,19 @@ The fully assembled pest repellent controller unit, ready for field deployment:
 
 ---
 
+## 🔦 Field Deployment & Operational Test
+
+The image below shows the Pest Repellent Light Controller Unit in actual operation, connected to an AC lamp and powered from the mains supply.
+This setup demonstrates the system’s readiness for real farm environments, where it can be installed near crop fields and operated continuously during night-time hours.
+
+- Highlights from this setup:
+- Fully enclosed, weather-resistant control unit
+- Safe AC lamp switching using Solid State Relay (SSR)
+- Simple plug-and-play installation
+- Suitable for outdoor and semi-outdoor agricultural use
+
+![Final Deployment](final(2).png)
+
 ## 🔄 Working Principle
 
 1. ESP32 generates programmable ON/OFF timing signals  
