@@ -74,7 +74,7 @@ This setup demonstrates the system’s readiness for real farm environments, whe
 - Simple plug-and-play installation
 - Suitable for outdoor and semi-outdoor agricultural use
 
-![Final Deployment](final(2).png)
+![Final Deployment](final (2).png)
 
 ## 🔄 Working Principle
 
